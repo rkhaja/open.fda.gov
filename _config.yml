@@ -10,3 +10,6 @@ kramdown:
 highlighter: pygments
 permalink: /update/:title/
 baseurl: ""
+
+port: 80
+host: 192.168.9.76
